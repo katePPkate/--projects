@@ -1,4 +1,4 @@
-#include "s21_grep.h"
+#include "grep.h"
 
 int main(int argc, char **argv) {
   grep(argc, argv);
